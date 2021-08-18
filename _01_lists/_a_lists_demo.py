@@ -35,6 +35,7 @@ if __name__ == '__main__':
     # Creating an empty list (no items). Use if you don't immediately know
     # what to put in your list
     my_empty_list = list()
+    #yup
 
     # Initializing a list with different objects
     my_list = [0.5, 1, 2, 3, 'welcome', 'to', 'python']
